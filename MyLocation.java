@@ -1,4 +1,4 @@
-/* by riccardopirani.altervista.org */
+/* by riccardopirani.it */
 package myapp;
 import android.annotation.SuppressLint;
 import android.content.Context;
